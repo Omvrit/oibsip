@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306946354086",
+    "project_id": "farmpure-agriplace",
+    "storage_bucket": "farmpure-agriplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306946354086:android:bfa34f5a439ff48bd5bd67",
+        "android_client_info": {
+          "package_name": "com.example.farmpure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz66QK4EkA09FX2xNz9-viwXLY7WCn-Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
